@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wheresmybasment.github.io/ellis-building-works-public-record/sitemap.xml
