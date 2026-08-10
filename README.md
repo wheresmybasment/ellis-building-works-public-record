@@ -10,6 +10,9 @@ Dedicated entries live under `cases/`; future redacted source records belong und
 
 Corrections and source submissions should use the repository's public issue tracker.
 
+Live Site URL: 
+https://wheresmybasment.github.io/ellis-building-works-public-record/
+
 ## Analytics
 
 The direct Google tag for GA4 Measurement ID `G-6DBNGV5710` is installed immediately
