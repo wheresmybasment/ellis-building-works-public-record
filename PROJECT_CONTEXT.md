@@ -49,6 +49,12 @@ Statements on the business website are not independently verified facts.
 - 6ABC Action News reported a $12,000 judgment involving Mike Garvin and reported that Ellis was appealing at the time of its April 8, 2026 report. Until the docket is obtained, this remains attributed reporting rather than a primary-record final disposition.
 - Main Street Merchant Services Inc. v. Ellis Building Works, LLC and Joseph Ellis, Jr., CV-004748-21/NY, was filed in New York County Civil Court on March 5, 2021. The filing is confirmed; the outcome is not verified, and filing alone does not imply liability.
 
+## Consumer-review sources
+
+- Yelp: https://www.yelp.com/biz/ellis-building-works-kempton
+- As reviewed August 10, 2026, Yelp displayed a 2.0 out of 5 rating from four reviews, including positive and negative customer submissions.
+- An August 7, 2026 Yelp review alleges a partially completed basement renovation, permit and material-order-documentation delays, and a promised refund that had not been received as of the review date. Treat every detail as a consumer allegation unless independently established by a reliable source or court record.
+
 ## Editorial and privacy rules
 
 Classify statements as confirmed/adjudicated, reliably reported, consumer allegation,
