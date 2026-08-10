@@ -9,3 +9,9 @@ Dedicated entries live under `cases/`; future redacted source records belong und
 `documents/` and must not be linked until the real reviewed files exist.
 
 Corrections and source submissions should use the repository's public issue tracker.
+
+## Analytics
+
+Google Tag Manager container `GTM-WVF27CT5` is installed on every public HTML page.
+Analytics reporting requires a GA4 Configuration / Google tag to be configured and
+published inside that container.
