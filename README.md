@@ -12,6 +12,5 @@ Corrections and source submissions should use the repository's public issue trac
 
 ## Analytics
 
-Google Tag Manager container `GTM-WVF27CT5` is installed on every public HTML page.
-Analytics reporting requires a GA4 Configuration / Google tag to be configured and
-published inside that container.
+The direct Google tag for GA4 Measurement ID `G-6DBNGV5710` is installed immediately
+after `<head>` on every public HTML page.
